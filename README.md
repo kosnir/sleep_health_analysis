@@ -70,4 +70,10 @@ These findings suggest that a comprehensive focus on factors such as gender, age
 - [ ] Use these findings to enhance the SleepScope app with personalized recommendations.
 - [ ] Develop new features targeting stress and physical activity management to improve sleep quality.
 
+## References
+[DATACAMP](https://app.datacamp.com/learn/projects/2030)
+
+---
+
+Made by Nikos
 
